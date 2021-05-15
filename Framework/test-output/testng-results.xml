@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-15T14:53:39Z" name="Suite" finished-at="2021-05-15T14:54:15Z" duration-ms="36569">
+    <groups>
+    </groups>
+    <test started-at="2021-05-15T14:53:39Z" name="Test" finished-at="2021-05-15T14:54:15Z" duration-ms="36569">
+      <class name="com.learnautomation.testcases.LoginTest">
+        <test-method is-config="true" signature="setupexcel()[pri:0, instance:com.learnautomation.testcases.LoginTest@5b3f61ff]" started-at="2021-05-15T14:53:38Z" name="setupexcel" finished-at="2021-05-15T14:53:39Z" duration-ms="695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupexcel -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.learnautomation.testcases.LoginTest@5b3f61ff]" started-at="2021-05-15T14:53:39Z" name="setup" finished-at="2021-05-15T14:54:03Z" duration-ms="24341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="App()[pri:0, instance:com.learnautomation.testcases.LoginTest@5b3f61ff]" started-at="2021-05-15T14:54:03Z" name="App" finished-at="2021-05-15T14:54:14Z" duration-ms="10976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- App -->
+        <test-method is-config="true" signature="screen(org.testng.ITestResult)[pri:0, instance:com.learnautomation.testcases.LoginTest@5b3f61ff]" started-at="2021-05-15T14:54:14Z" name="screen" finished-at="2021-05-15T14:54:14Z" duration-ms="278" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=App status=SUCCESS method=LoginTest.App()[pri:0, instance:com.learnautomation.testcases.LoginTest@5b3f61ff] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screen -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.learnautomation.testcases.LoginTest@5b3f61ff]" started-at="2021-05-15T14:54:14Z" name="teardown" finished-at="2021-05-15T14:54:15Z" duration-ms="958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.learnautomation.testcases.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
